@@ -7,7 +7,7 @@ I therefore had to put everything on hold until I got another laptop.
 Thankfully, I got a new laptop at the start of this week (week 35), and I have successfully installed everything I needed, and managed to get through the Heroku tutorial.
 
 ### How I have validated (checked) that the software development environment is working:
-For Maven, I just checked that it was installed with the "mvn -v" command in the terminal, and the rest got checked while doing the Heroku tutorial, since it would have given error messages if things were not installed correctly or something like that.
+For Maven and java, I just checked that it was installed with the "mvn -v" and "java --version" command in the terminal, and the rest got checked while doing the Heroku tutorial, since it would have given error messages if things were not installed correctly or something like that.
 
 ### Pending issues with this assignment which I did not manage to solve:
 None :)
