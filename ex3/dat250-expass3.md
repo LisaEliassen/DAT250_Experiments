@@ -1,6 +1,7 @@
 ## Report for "Software Technology Experiment 3: Mongo DB":
 
 ### Technical Problems:
+None :)
 
 ### Validation screenshot:
 ![img.png](validation.png)
